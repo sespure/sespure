@@ -1,16 +1,19 @@
-## Hi there 👋
+# sespure
 
-<!--
-**sespure/sespure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iOS Developer in Progress 📱
 
-Here are some ideas to get you started:
+I'm a student from Ukraine passionate about Apple technologies.
+Currently learning Swift and SwiftUI while building personal projects and exploring the Apple ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+
+- Swift
+- SwiftUI
+- Xcode
+- Git
+
+### Goals for 2026
+
+- Build and publish iOS applications
+- Learn UIKit
+- Contribute to open source
