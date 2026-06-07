@@ -11,9 +11,3 @@ Currently learning Swift and SwiftUI while building personal projects and explor
 - SwiftUI
 - Xcode
 - Git
-
-### Goals for 2026
-
-- Build and publish iOS applications
-- Learn UIKit
-- Contribute to open source
